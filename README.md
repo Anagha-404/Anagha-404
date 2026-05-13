@@ -8,7 +8,7 @@ Currently into: LLM integration, graph neural networks, and OCR pipelines.
 
 ## Things I've built
 
-**[Invoice Data Extractor](https://github.com/Anagha-404/invoice-extractor)**
+**[Invoice Data Extractor](https://github.com/Anagha-404/tax-invoice-extractor)**
 Extracts structured JSON from real-world tax invoices using Gemini 2.5 Flash + OpenCV preprocessing. The interesting part was making it work on faded, skewed scans — not just crisp PDFs.
 
 **[Ovarian Cancer Risk Prediction](https://github.com/Anagha-404/cancer-risk-gnn)**
