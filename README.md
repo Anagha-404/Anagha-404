@@ -11,7 +11,7 @@ Currently into: LLM integration, graph neural networks, and OCR pipelines.
 **[Invoice Data Extractor](https://github.com/Anagha-404/tax-invoice-extractor)**
 Extracts structured JSON from real-world tax invoices using Gemini 2.5 Flash + OpenCV preprocessing. The interesting part was making it work on faded, skewed scans — not just crisp PDFs.
 
-**[Ovarian Cancer Risk Prediction](https://github.com/Anagha-404/cancer-risk-gnn)**
+**[Ovarian Cancer Risk Prediction]((https://github.com/Anagha-404/Knowledge-Graph-Based-Ovarian-Cancer-Risk-Prediction.git))**
 Graph neural network on the GSE9891 dataset (285 patients, ~22k genes). 87% recall. Added SHAP explainability because an 80% accurate black box felt incomplete.
 
 ---
